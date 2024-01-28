@@ -6,6 +6,10 @@
     .about-containers {
       flex-wrap: wrap;
     }
+    .symbol{
+      width: 6%;
+      margin-left: 100px;
+    }
     #contact,
     #projects {
       height: fit-content;
